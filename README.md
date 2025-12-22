@@ -20,7 +20,7 @@ The goal is to analyze how factors such as inflation, Consumer price index(CPI),
 | `ًWDI.CSV` | Dataset |
 | `notebook.ipynb` | Jupyter Notebook with data analysis, preprocessing, and modeling |
 | `README.md` | This file explaining the project |
-| `requirements.txt` | List of Python packages needed to run the project |
+
 
 ## Summary of Results
 - The scenario-based analysis shows a positive relationship between inflation and GDP per capita, with GDP rising moderately as inflation increases from 3.88% to 6.08%.
