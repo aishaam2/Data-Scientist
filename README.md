@@ -18,7 +18,7 @@ The goal is to analyze how factors such as inflation, Consumer price index(CPI),
 | File | Description |
 |------|-------------|
 | `ًWDI.CSV` | Dataset |
-| `notebook.ipynb` | Jupyter Notebook with data analysis, preprocessing, and modeling |
+| `DSproject1.ipynb` | Jupyter Notebook with data analysis, preprocessing, and modeling |
 | `README.md` | This file explaining the project |
 
 
