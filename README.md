@@ -23,10 +23,10 @@ The goal is to analyze how factors such as inflation, Consumer price index(CPI),
 
 
 ## Summary of Results
+- Linear regression was used as a baseline model to explore historical trends, providing insights rather than precise long-term forecasts. 
 - The scenario-based analysis shows a positive relationship between inflation and GDP per capita, with GDP rising moderately as inflation increases from 3.88% to 6.08%.
 - Inflation appears to have a secondary influence compared to other indicators such as CPI and exports.
-- Linear regression was used as a baseline model to explore historical trends, providing insights rather than precise long-term forecasts. 
-- Limitations include the model's inability to capture non-linear dynamics, structural changes, or unexpected external shocks, and scenario predictions assume other variables remain constant.
+- Limitations include the model's inability to capture non-linear dynamics, structural changes, or unexpected external shocks.
 
 
 ## Acknowledgments
