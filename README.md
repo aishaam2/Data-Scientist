@@ -17,7 +17,7 @@ The goal is to analyze how factors such as inflation, Consumer price index(CPI),
 ## Repository Structure
 | File | Description |
 |------|-------------|
-| `ًWDI.CSV` | Dataset |
+| `ًWDI.CSV` | World Development Indicators Dataset |
 | `DSproject1.ipynb` | Jupyter Notebook with data analysis, preprocessing, and modeling |
 | `README.md` | This file explaining the project |
 
